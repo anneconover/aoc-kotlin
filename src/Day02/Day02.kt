@@ -40,7 +40,7 @@ fun main() {
     check(part1(testInput) == 150)
 //    check(part2(testInput) == 5)
 
-//    val input = readInput("Day02/Day02")
-//    println(part1(input))
+    val input = readInput("Day02/Day02")
+    println(part1(input))
 //    println(part2(input))
 }
